@@ -14,7 +14,7 @@ This essay is my attempt to lay out that framework in usable form. I want to giv
 
 Hold these two facts in your mind for a moment.
 
-First: your working memory (the part of your mind where conscious thinking happens) can hold roughly four pieces of new information at once. Not seven, despite the famous old number; more recent research has revised it downward for genuinely novel material. Four items. Maybe twenty seconds before they fade without rehearsal.
+First: your working memory (the part of your mind where conscious thinking happens) can hold only a small number of novel elements simultaneously, often estimated at around four. Not seven, despite the famous old number; more recent research has revised it downward for genuinely novel material. Four items. Maybe twenty seconds before they fade without rehearsal.
 
 Second: your long-term memory has, for all practical purposes, no upper limit. Nobody has ever found one. The information you've encoded over a lifetime (every face, every word of your native language, every route you've ever driven, every embarrassing thing you said in middle school) all of it sits in long-term memory, and there's room for vastly more.
 
